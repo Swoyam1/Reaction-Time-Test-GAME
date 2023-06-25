@@ -127,9 +127,9 @@
         </main>
         
         <footer class="footer">
-            <p class="tech-love">Made with 🖤 using JavaScript</p>
+            <p class="tech-love">Made with ❤️ using JavaScript</p>
             <p>
-                &copy;2022 <span id="year"></span>
+                &copy;<span id="year"></span>
                 <a
                     href="/"
                     target="_blank"
@@ -143,7 +143,7 @@
         <script>
             const date = new Date();
             let yearElement = document.getElementById('year');
-            yearElement.innerHTML=`- ${date.getFullYear()}`;
+            yearElement.innerHTML=`${date.getFullYear()}`;
         </script>
     </body>
 </html>
