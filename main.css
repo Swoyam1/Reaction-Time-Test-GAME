@@ -1,7 +1,7 @@
 /* scrollbar */
 
 ::-webkit-scrollbar {
-    width: 8px;
+    width: 8.5px;
     height: 50px
 }
 
