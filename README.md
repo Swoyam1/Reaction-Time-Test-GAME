@@ -1,4 +1,4 @@
-**reaction time tester**
+# **reaction time tester**
 
 ### Game built to test reaction time
 
