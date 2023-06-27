@@ -7,7 +7,7 @@ Game built to test how quick you react to the objects displayed on the screen by
 
 * HTML
 * CSS
-* HTML CAnVAS
+* HTML CANVAS
 * JavaScript
 
 ## Game Rules:
