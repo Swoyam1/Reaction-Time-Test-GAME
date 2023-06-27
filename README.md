@@ -1,4 +1,4 @@
-** reaction time tester **
+# ** reaction time tester **
 
 ## Game To Test Your Reaction Time
 
