@@ -1,4 +1,4 @@
-<h1 align="center"> Reaction-Time-Test </h1>
+<h1 align="center"> Reaction-Time-Test :video_game:</h1>
 
 ## CLick To Play: [PLAY](https://swoyam1.github.io/Reaction-Time-Test-GAME/)
 
