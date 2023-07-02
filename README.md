@@ -1,5 +1,4 @@
-# Reaction-Time-Test
-Game built to test how quick you react to the objects displayed on the screen by keeping record of your current score, highest streak and awarding badges according to the level you have reached
+<h1 align="center"> Reaction-Time-Test </h1>
 
 ## CLick To Play: [PLAY](https://swoyam1.github.io/Reaction-Time-Test-GAME/)
 
